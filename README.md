@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Waving header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=220&section=header&text=Prakash%20Kavyaraj&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20%26%20Business%20Systems%20Student%20%7C%20C%2B%2B%20Developer%20%7C%20Frontend%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- Self-hosted animated banner (no third-party dependency) -->
+<img src="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/main/banner.svg" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
+<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
 
 ### 🧑‍💻 Who I Am
 
@@ -29,7 +29,7 @@ const prakash = {
 };
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
+<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
 
 ### 🚀 Featured Projects
 
@@ -45,7 +45,7 @@ Olipop is a visually appealing and interactive landing page built to showcase a 
 <img src="https://img.shields.io/badge/Focus-UI%2FUX-7dd3fc?style=for-the-badge" alt="Focus"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
+<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
 
 ### 🛠️ Tech Stack
 
@@ -55,7 +55,7 @@ Olipop is a visually appealing and interactive landing page built to showcase a 
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=html,css,js" /></p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
+<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
 
 ### 📈 Contribution Activity
 
@@ -65,7 +65,7 @@ Olipop is a visually appealing and interactive landing page built to showcase a 
   <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
+<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
 
 <div align="center">
 
@@ -76,7 +76,5 @@ Olipop is a visually appealing and interactive landing page built to showcase a 
 <a href="mailto:prakashkavyaraj0809@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/prakashkavyaraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
