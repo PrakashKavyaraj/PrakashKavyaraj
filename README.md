@@ -14,7 +14,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
 
 ### 🧑‍💻 Who I Am
 
@@ -29,7 +29,7 @@ const prakash = {
 };
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
 
 ### 🚀 Featured Projects
 
@@ -40,9 +40,12 @@ Olipop is a visually appealing and interactive landing page built to showcase a 
 |---|---|
 | Frontend | HTML5, CSS3, JavaScript |
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=PrakashKavyaraj&repo=Olipop&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" alt="Olipop Repo Pin"/>
+<p>
+<img src="https://img.shields.io/badge/Type-Landing%20Page-7dd3fc?style=for-the-badge" alt="Type"/>
+<img src="https://img.shields.io/badge/Focus-UI%2FUX-7dd3fc?style=for-the-badge" alt="Focus"/>
+</p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -52,30 +55,19 @@ Olipop is a visually appealing and interactive landing page built to showcase a 
 **Frontend**
 <p><img src="https://skillicons.dev/icons?i=html,css,js" /></p>
 
----
-
-### 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=PrakashKavyaraj&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashKavyaraj&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" height="165"/>
-</p>
-
-<p>
-<img src="https://streak-stats.demolab.com/?user=PrakashKavyaraj&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak"/>
-</p>
-
-### 🏆 GitHub Trophies
-
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=PrakashKavyaraj&theme=nord&no-frame=true&no-bg=true&row=1&margin-w=15" alt="GitHub Trophies"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
 
 ### 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PrakashKavyaraj&theme=react-dark&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7dd3fc,100:7dd3fc&height=3&section=header" width="100%"/>
+
+<div align="center">
 
 ### 🔗 Connect with Me
 
@@ -88,4 +80,3 @@ Olipop is a visually appealing and interactive landing page built to showcase a 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
-
