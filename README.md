@@ -30,6 +30,8 @@
 │  ⚡ Focus       : Systems Programming (C++) & Full-Stack Web Eng.       │
 │  🚀 Current Ops : Scalable UI/UX, Creative 3D Web & AI Integrations    │
 │  💬 Let's talk  : C++, React/Next.js, Computer Architecture, UI Design │
+│  📬 Contact     : prakashkavyaraj0809@gmail.com                        │
+│  🔗 LinkedIn    : in/prakash-kavyaraj-755022396                        │
 │  💡 Philosophy  : "Simplicity is prerequisite for reliability."         │
 └─────────────────────────────────────────────────────────────────────────┘
 ```
@@ -121,20 +123,6 @@
 
 ---
 
-### 🐍 Contribution Journey
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</div>
-
----
-
 ### 💡 Daily Dev Wisdom
 
 <div align="center">
@@ -147,23 +135,29 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/prakashkavyaraj" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://x.com/prakashkavyaraj" target="_blank">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-&nbsp;
-<a href="mailto:prakashkavyaraj0809@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-&nbsp;
-<a href="https://github.com/PrakashKavyaraj" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+<!-- Official LinkedIn & Gmail Banners -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/prakash-kavyaraj-755022396/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Prakash%20Kavyaraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Banner" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:prakashkavyaraj0809@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-prakashkavyaraj0809%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Banner" />
+  </a>
+</p>
 
-<br/><br/>
+<!-- Additional Socials -->
+<p align="center">
+  <a href="https://x.com/prakashkavyaraj" target="_blank">
+    <img src="https://img.shields.io/badge/X-@prakashkavyaraj-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PrakashKavyaraj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-PrakashKavyaraj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=070b14,7dd3fc&height=100&section=footer" width="100%" alt="Footer Wave"/>
 
