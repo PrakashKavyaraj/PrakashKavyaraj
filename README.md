@@ -1,63 +1,129 @@
 <div align="center">
 
-<!-- Self-hosted animated banner (no third-party dependency) -->
-<img src="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/main/banner.svg" width="100%"/>
+<!-- Self-hosted Animated Cyber-Cyan Banner -->
+<img src="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/main/banner.svg" width="100%" alt="Prakash Kavyaraj Banner" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+things+with+C%2B%2B;Crafting+clean+frontend+UI%2FUX;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<br/>
+
+<!-- Dynamic Typing SVG -->
+<a href="https://github.com/PrakashKavyaraj">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=720&lines=Crafting%20High-Performance%20Systems%20in%20C%2B%2B%20%E2%9A%A1;Architecting%20Modern%20Web%20Apps%20%28React%20%E2%80%A2%20Next.js%20%E2%80%A2%20Tailwind%29;Building%20Creative%20Tech%20with%20AI%20%26%203D%20Web%20%28Three.js%29;CS%20%26%20Business%20Systems%20Student%20%E2%80%A2%20Always%20Shipping%20%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<!-- Profile view counter + followers -->
-<img src="https://komarev.com/ghpvc/?username=PrakashKavyaraj&label=Profile%20Views&color=7dd3fc&style=flat" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/PrakashKavyaraj?label=Followers&style=flat&color=7dd3fc" alt="Followers"/>
+<p align="center">
+  <a href="https://github.com/PrakashKavyaraj?tab=followers"><img src="https://img.shields.io/github/followers/PrakashKavyaraj?label=Followers&style=for-the-badge&color=0d1117&labelColor=161b22&logo=github&logoColor=7dd3fc" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=PrakashKavyaraj&label=Profile%20Views&color=0d1117&style=for-the-badge&labelColor=161b22" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Status-Shipping%20Code-0d1117?style=for-the-badge&labelColor=161b22&logo=blueprint&logoColor=7dd3fc" alt="Status" />
+</p>
 
 </div>
 
-<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
+---
 
-### 🧑‍💻 Who I Am
+### 💻 System Terminal
 
-```typescript
-const prakash = {
-  title: "CS & Business Systems Student | C++ Developer | Frontend Enthusiast",
-  stack: ["C++", "HTML5", "CSS3", "JavaScript"],
-  launchedProjects: ["Olipop – Soft Drink Landing Page"],
-  certifications: [],
-  status: "Learning, building, and exploring new tech",
-  openTo: "Collaborations & interesting projects"
-};
+```zsh
+➜  ~ whoami --profile
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🧑‍💻 Prakash Kavyaraj                                                    │
+│  🎓 CS & Business Systems Student                                       │
+│  ⚡ Focus       : Systems Programming (C++) & Full-Stack Web Eng.       │
+│  🚀 Current Ops : Scalable UI/UX, Creative 3D Web & AI Integrations    │
+│  💬 Let's talk  : C++, React/Next.js, Computer Architecture, UI Design │
+│  💡 Philosophy  : "Simplicity is prerequisite for reliability."         │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
-<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+**Languages**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,c,ts,js,python,html,css&theme=dark" alt="Languages" />
+</a>
+
+<br/><br/>
+
+**Frontend & Creative 3D**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite&theme=dark" alt="Frontend Frameworks" />
+</a>
+
+<br/><br/>
+
+**Backend, Cloud & Tools**
+<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,docker,git,github,vscode,linux,postman,figma&perline=9&theme=dark" alt="Tools & Cloud" />
+</a>
+
+</div>
+
+---
 
 ### 🚀 Featured Projects
 
-#### 🥤 Olipop – Soft Drink Landing Page
-Olipop is a visually appealing and interactive landing page built to showcase a soft drink product with modern UI/UX design.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🥤 Olipop</h3>
+      <p align="center"><b>Modern 3D & Storytelling Product Experience</b></p>
+      <p>A visually captivating, responsive landing page engineered to showcase beverage products with fluid interactive storytelling, micro-animations, and conversion-optimized UI.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔊 Dhvani</h3>
+      <p align="center"><b>Audio & Voice Integrity Platform</b></p>
+      <p>A secure voice integrity analysis and acoustic processing web application engineered with modern frontend architecture and containerized for reliable cross-environment deployment.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-| Layer | Technology |
-|---|---|
-| Frontend | HTML5, CSS3, JavaScript |
+---
 
-<p>
-<img src="https://img.shields.io/badge/Type-Landing%20Page-7dd3fc?style=for-the-badge" alt="Type"/>
-<img src="https://img.shields.io/badge/Focus-UI%2FUX-7dd3fc?style=for-the-badge" alt="Focus"/>
-</p>
+### 📊 GitHub Activity & Streak Analytics
 
-<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
+<div align="center">
 
-### 🛠️ Tech Stack
+<!-- Streak Stats -->
+<a href="https://github.com/PrakashKavyaraj">
+  <img src="https://streak-stats.demolab.com/?user=PrakashKavyaraj&theme=dark&background=0d1117&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideNums=ffffff&sideLabels=7dd3fc&dates=94a3b8" alt="GitHub Streak" width="48%" />
+</a>
+<!-- GitHub General Stats -->
+<a href="https://github.com/PrakashKavyaraj">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrakashKavyaraj&show_icons=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&border_color=7dd3fc&hide_border=false" alt="GitHub Stats" width="48%" />
+</a>
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=cpp" /></p>
+<br/><br/>
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,js" /></p>
+<!-- Top Languages -->
+<a href="https://github.com/PrakashKavyaraj">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashKavyaraj&layout=compact&bg_color=0d1117&title_color=7dd3fc&text_color=e2e8f0&border_color=7dd3fc&hide_border=false" alt="Top Languages" />
+</a>
 
-<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
+</div>
 
-### 📈 Contribution Activity
+---
+
+### 🐍 Contribution Journey
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/output/github-contribution-grid-snake-dark.svg" />
@@ -65,16 +131,40 @@ Olipop is a visually appealing and interactive landing page built to showcase a 
   <img alt="Snake eating contribution graph" src="https://raw.githubusercontent.com/PrakashKavyaraj/PrakashKavyaraj/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<hr style="border: 2px solid #7dd3fc; border-radius: 5px;">
+</div>
+
+---
+
+### 💡 Daily Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0d1117&color=7dd3fc&border_color=7dd3fc" alt="Dev Quote" />
+</div>
+
+---
+
+### 🌐 Connect With Me
 
 <div align="center">
 
-### 🔗 Connect with Me
+<a href="https://linkedin.com/in/prakashkavyaraj" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://x.com/prakashkavyaraj" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+&nbsp;
+<a href="mailto:prakashkavyaraj0809@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/PrakashKavyaraj" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-<p>
-<a href="https://x.com/prakashkavyaraj" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:prakashkavyaraj0809@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://linkedin.com/in/prakashkavyaraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-</p>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=070b14,7dd3fc&height=100&section=footer" width="100%" alt="Footer Wave"/>
 
 </div>
