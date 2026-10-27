@@ -23,17 +23,43 @@
 ### 💻 System Terminal
 
 ```zsh
-➜  ~ whoami --profile
-┌─────────────────────────────────────────────────────────────────────────┐
-│  🧑‍💻 Prakash Kavyaraj                                                    │
-│  🎓 CS & Business Systems Student                                       │
-│  ⚡ Focus       : Systems Programming (C++) & Full-Stack Web Eng.       │
-│  🚀 Current Ops : Scalable UI/UX, Creative 3D Web & AI Integrations    │
-│  💬 Let's talk  : C++, React/Next.js, Computer Architecture, UI Design │
-│  📬 Contact     : prakashkavyaraj0809@gmail.com                        │
-│  🔗 LinkedIn    : in/prakash-kavyaraj-755022396                        │
-│  💡 Philosophy  : "Simplicity is prerequisite for reliability."         │
-└─────────────────────────────────────────────────────────────────────────┘
+➜  ~ neofetch --user prakash
+
+       /\_/\         prakash@workstation
+      ( o.o )        -------------------
+       > ^ <         Role      : C++ Systems & Modern Full-Stack Engineer
+                     Degree    : CS & Business Systems (Undergrad)
+                     Languages : C++20, TypeScript, Python 3.12, C, JavaScript
+                     Frontend  : React 19, Next.js, Tailwind CSS, Three.js, Vite
+                     Backend   : FastAPI, Node.js, Docker, Firebase
+                     Location  : India 🇮🇳
+                     Status    : 🟢 Open for Collaborations & Tech Opportunities
+
+➜  ~ cat ~/active_deployments.json
+{
+  "featured": [
+    {
+      "name": "Dhvani",
+      "type": "Audio & Voice Integrity Platform",
+      "stack": ["React", "Vite", "TypeScript", "Docker"]
+    },
+    {
+      "name": "Mental Health Score Predictor",
+      "type": "Explainable AI & Lifestyle Rhythm Modeling",
+      "stack": ["Python", "FastAPI", "LightGBM", "TreeSHAP", "Docker"]
+    }
+  ]
+}
+
+➜  ~ echo $PHILOSOPHY
+"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
+
+➜  ~ curl -s https://api.prakash.dev/contact
+{
+  "email": "prakashkavyaraj0809@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/prakash-kavyaraj-755022396/",
+  "github": "https://github.com/PrakashKavyaraj"
+}
 ```
 
 ---
