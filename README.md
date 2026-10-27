@@ -73,14 +73,15 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🥤 Olipop</h3>
-      <p align="center"><b>Modern 3D & Storytelling Product Experience</b></p>
-      <p>A visually captivating, responsive landing page engineered to showcase beverage products with fluid interactive storytelling, micro-animations, and conversion-optimized UI.</p>
+      <h3 align="center">🧠 Mental Health Score Predictor</h3>
+      <p align="center"><b>Explainable AI & Lifestyle Rhythm Modeling</b></p>
+      <p>Production-grade ML microservice predicting student mental wellness from digital behavior and daily lifestyle rhythms using regularized LightGBM, TreeSHAP explainability, and a counterfactual What-If simulator.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/LightGBM-43B02A?style=flat-square" alt="LightGBM" />
+        <img src="https://img.shields.io/badge/TreeSHAP-FF6F00?style=flat-square" alt="TreeSHAP" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
     <td width="50%" valign="top">
