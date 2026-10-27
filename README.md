@@ -50,16 +50,6 @@
     }
   ]
 }
-
-➜  ~ echo $PHILOSOPHY
-"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
-
-➜  ~ curl -s https://api.prakash.dev/contact
-{
-  "email": "prakashkavyaraj0809@gmail.com",
-  "linkedin": "https://www.linkedin.com/in/prakash-kavyaraj-755022396/",
-  "github": "https://github.com/PrakashKavyaraj"
-}
 ```
 
 ---
