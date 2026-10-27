@@ -27,8 +27,7 @@
 
        /\_/\         prakash@workstation
       ( o.o )        -------------------
-       > ^ <         Role      : C++ Systems & Modern Full-Stack Engineer
-                     Degree    : CS & Business Systems (Undergrad)
+       > ^ <         Degree    : CS & Business Systems (Undergrad)
                      Languages : C++20, TypeScript, Python 3.12, C, JavaScript
                      Frontend  : React 19, Next.js, Tailwind CSS, Three.js, Vite
                      Backend   : FastAPI, Node.js, Docker, Firebase
