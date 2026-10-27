@@ -68,10 +68,21 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Popular Repositories
 
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔊 Dhvani</h3>
+      <p align="center"><b>Audio & Voice Integrity Platform</b></p>
+      <p>A secure voice integrity analysis and acoustic processing web application engineered with modern frontend architecture and containerized for reliable cross-environment deployment.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">🧠 Mental Health Score Predictor</h3>
       <p align="center"><b>Explainable AI & Lifestyle Rhythm Modeling</b></p>
@@ -84,43 +95,8 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔊 Dhvani</h3>
-      <p align="center"><b>Audio & Voice Integrity Platform</b></p>
-      <p>A secure voice integrity analysis and acoustic processing web application engineered with modern frontend architecture and containerized for reliable cross-environment deployment.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Activity & Streak Analytics
-
-<div align="center">
-
-<!-- Streak Stats -->
-<a href="https://github.com/PrakashKavyaraj">
-  <img src="https://streak-stats.demolab.com/?user=PrakashKavyaraj&theme=dark&background=0d1117&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideNums=ffffff&sideLabels=7dd3fc&dates=94a3b8" alt="GitHub Streak" width="48%" />
-</a>
-<!-- GitHub General Stats -->
-<a href="https://github.com/PrakashKavyaraj">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrakashKavyaraj&show_icons=true&bg_color=0d1117&title_color=7dd3fc&icon_color=7dd3fc&text_color=e2e8f0&border_color=7dd3fc&hide_border=false" alt="GitHub Stats" width="48%" />
-</a>
-
-<br/><br/>
-
-<!-- Top Languages -->
-<a href="https://github.com/PrakashKavyaraj">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashKavyaraj&layout=compact&bg_color=0d1117&title_color=7dd3fc&text_color=e2e8f0&border_color=7dd3fc&hide_border=false" alt="Top Languages" />
-</a>
-
-</div>
 
 ---
 
